@@ -6,7 +6,7 @@
 
 I wanted to create a game with a bit of a twist! 
 
-Power Bird let's you slow down time so you don't die to a stupid mistake! Gone are the days of having a cracked phone screen because you raged and threw it across the room. Instead it'll be your computer 😢
+Power Bird let's you slow down time so you don't die to a stupid mistake! Gone are the days of having a cracked phone screen because you raged and threw it across the room. Instead, it'll be your computer 😢
 
 # Main Menu
 
